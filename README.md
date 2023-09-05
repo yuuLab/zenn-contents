@@ -8,15 +8,15 @@ https://zenn.dev/yuulab
 
 - new article
   ```
-  $ npx zenn new:article
+  npx zenn new:article
   ```
 - new book
   ```
-  $ npx zenn new:book
+  npx zenn new:book
   ```
 - preview
   ```
-  $ npx zenn preview
+  npx zenn preview
   ```
 
 ## References
